@@ -1,1 +1,4 @@
 image: yugabytedb/yugabyte
+tasks:
+    - name: Dev Server
+      init: dnf install -y git
