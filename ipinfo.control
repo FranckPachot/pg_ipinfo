@@ -1,0 +1,4 @@
+comment = 'calls http://ipinfo.io'
+default_version = '1.0.1'
+module_pathname = '$libdir'
+relocatable = true
