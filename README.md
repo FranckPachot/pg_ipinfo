@@ -1,5 +1,6 @@
 # pg_ipinfo
-PostgreSQL extension to get information from ipinfo.io
+PostgreSQL extension to get geographical information about the region where the backend is running:
+![ipinfo.io](https://github.com/FranckPachot/pg_ipinfo/assets/33070466/5d1efa66-8b5f-418a-ac35-85d7a22f65bc)
 
 This repo is empty, we will build that during the Distributed SQL workshop
 
