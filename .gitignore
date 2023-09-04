@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# files built during the workshop
+ipinfo
+ipinfo.o
+ipinfo.sh
+ipinfo.bc
+tmp/
