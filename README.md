@@ -1,3 +1,7 @@
+ 
+📜 **The slides for this workshop are here**: [https://t.ly/03_kQ](https://drive.google.com/file/d/1Al4JjUspCmCD9ai9C2m4sKGMgQ85qW_X/view) 
+ 
+
 # pg_ipinfo
 PostgreSQL extension to get geographical information about the region where the backend is running:
 ![ipinfo.io](https://github.com/FranckPachot/pg_ipinfo/assets/33070466/5d1efa66-8b5f-418a-ac35-85d7a22f65bc)
