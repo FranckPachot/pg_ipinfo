@@ -3,6 +3,7 @@ PostgreSQL extension to get geographical information about the region where the 
 ![ipinfo.io](https://github.com/FranckPachot/pg_ipinfo/assets/33070466/5d1efa66-8b5f-418a-ac35-85d7a22f65bc)
 
 This repo is empty, we will build that during the Distributed SQL workshop
+I'll commit in DSS2023 branch during the workshop
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/FranckPachot/pg_ipinfo)
 
